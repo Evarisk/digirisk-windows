@@ -1,0 +1,411 @@
+10:53:36  [main] 	Initializing Control Panel
+10:53:36  [main] 	Windows Version:  Home  64-bit
+10:53:36  [main] 	XAMPP Version: 5.6.20
+10:53:36  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+10:53:36  [main] 	You are not running with administrator rights! This will work for
+10:53:36  [main] 	most application stuff but whenever you do something with services
+10:53:36  [main] 	there will be a security dialogue or things will break! So think 
+10:53:36  [main] 	about running this application with administrator rights!
+10:53:36  [main] 	XAMPP Installation Directory: "e:\digirisk\xampp\"
+10:53:36  [main] 	Checking for prerequisites
+10:53:36  [main] 	All prerequisites found
+10:53:36  [main] 	Initializing Modules
+10:53:36  [main] 	The FileZilla module is disabled
+10:53:36  [main] 	The Mercury module is disabled
+10:53:36  [main] 	The Tomcat module is disabled
+10:53:36  [main] 	Starting Check-Timer
+10:53:36  [main] 	Control Panel Ready
+10:54:08  [main] 	Deinitializing Modules
+10:54:08  [main] 	Deinitializing Control Panel
+
+10:55:07  [main] 	Initializing Control Panel
+10:55:07  [main] 	Windows Version:  Home  64-bit
+10:55:07  [main] 	XAMPP Version: 5.6.20
+10:55:07  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+10:55:07  [main] 	You are not running with administrator rights! This will work for
+10:55:07  [main] 	most application stuff but whenever you do something with services
+10:55:07  [main] 	there will be a security dialogue or things will break! So think 
+10:55:07  [main] 	about running this application with administrator rights!
+10:55:07  [main] 	XAMPP Installation Directory: "e:\digirisk\xampp\"
+10:55:07  [main] 	Checking for prerequisites
+10:55:07  [main] 	All prerequisites found
+10:55:07  [main] 	Initializing Modules
+10:55:07  [main] 	The FileZilla module is disabled
+10:55:07  [main] 	The Mercury module is disabled
+10:55:07  [main] 	The Tomcat module is disabled
+10:55:07  [main] 	Enabling autostart for module "Apache"
+10:55:07  [main] 	Enabling autostart for module "MySQL"
+10:55:07  [main] 	Starting Check-Timer
+10:55:07  [main] 	Control Panel Ready
+10:55:07  [Apache] 	Autostart active: starting...
+10:55:07  [Apache] 	Attempting to start Apache app...
+10:55:07  [mysql] 	Autostart active: starting...
+10:55:07  [mysql] 	Attempting to start MySQL app...
+10:55:08  [Apache] 	Status change detected: running
+10:55:08  [mysql] 	Status change detected: running
+10:55:29  [mysql] 	Status change detected: stopped
+10:55:29  [mysql] 	Error: MySQL shutdown unexpectedly.
+10:55:29  [mysql] 	This may be due to a blocked port, missing dependencies, 
+10:55:29  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+10:55:29  [mysql] 	Press the Logs button to view error logs and check
+10:55:29  [mysql] 	the Windows Event Viewer for more clues
+10:55:29  [mysql] 	If you need more help, copy and post this
+10:55:29  [mysql] 	entire log window on the forums
+10:55:29  [Apache] 	Status change detected: stopped
+10:55:29  [Apache] 	Error: Apache shutdown unexpectedly.
+10:55:29  [Apache] 	This may be due to a blocked port, missing dependencies, 
+10:55:29  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+10:55:29  [Apache] 	Press the Logs button to view error logs and check
+10:55:29  [Apache] 	the Windows Event Viewer for more clues
+10:55:29  [Apache] 	If you need more help, copy and post this
+10:55:29  [Apache] 	entire log window on the forums
+10:55:41  [main] 	Deinitializing Modules
+10:55:41  [main] 	Deinitializing Control Panel
+
+10:55:43  [main] 	Initializing Control Panel
+10:55:43  [main] 	Windows Version:  Home  64-bit
+10:55:43  [main] 	XAMPP Version: 5.6.20
+10:55:43  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+10:55:43  [main] 	You are not running with administrator rights! This will work for
+10:55:43  [main] 	most application stuff but whenever you do something with services
+10:55:43  [main] 	there will be a security dialogue or things will break! So think 
+10:55:43  [main] 	about running this application with administrator rights!
+10:55:43  [main] 	XAMPP Installation Directory: "e:\digirisk\xampp\"
+10:55:43  [main] 	Checking for prerequisites
+10:55:43  [main] 	All prerequisites found
+10:55:43  [main] 	Initializing Modules
+10:55:43  [main] 	The FileZilla module is disabled
+10:55:43  [main] 	The Mercury module is disabled
+10:55:43  [main] 	The Tomcat module is disabled
+10:55:43  [main] 	Enabling autostart for module "Apache"
+10:55:43  [main] 	Enabling autostart for module "MySQL"
+10:55:43  [main] 	Starting Check-Timer
+10:55:43  [main] 	Control Panel Ready
+10:55:44  [Apache] 	Autostart active: starting...
+10:55:44  [Apache] 	Attempting to start Apache app...
+10:55:44  [mysql] 	Autostart active: starting...
+10:55:44  [mysql] 	Attempting to start MySQL app...
+10:55:44  [Apache] 	Status change detected: running
+10:55:44  [mysql] 	Status change detected: running
+10:56:17  [Apache] 	Status change detected: stopped
+10:56:17  [Apache] 	Error: Apache shutdown unexpectedly.
+10:56:17  [Apache] 	This may be due to a blocked port, missing dependencies, 
+10:56:17  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+10:56:17  [Apache] 	Press the Logs button to view error logs and check
+10:56:17  [Apache] 	the Windows Event Viewer for more clues
+10:56:17  [Apache] 	If you need more help, copy and post this
+10:56:17  [Apache] 	entire log window on the forums
+10:56:17  [mysql] 	Status change detected: stopped
+10:56:17  [mysql] 	Error: MySQL shutdown unexpectedly.
+10:56:17  [mysql] 	This may be due to a blocked port, missing dependencies, 
+10:56:17  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+10:56:17  [mysql] 	Press the Logs button to view error logs and check
+10:56:17  [mysql] 	the Windows Event Viewer for more clues
+10:56:17  [mysql] 	If you need more help, copy and post this
+10:56:17  [mysql] 	entire log window on the forums
+10:56:43  [main] 	Deinitializing Modules
+10:56:43  [main] 	Deinitializing Control Panel
+
+10:56:46  [main] 	Initializing Control Panel
+10:56:46  [main] 	Windows Version:  Home  64-bit
+10:56:46  [main] 	XAMPP Version: 5.6.20
+10:56:46  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+10:56:46  [main] 	You are not running with administrator rights! This will work for
+10:56:46  [main] 	most application stuff but whenever you do something with services
+10:56:46  [main] 	there will be a security dialogue or things will break! So think 
+10:56:46  [main] 	about running this application with administrator rights!
+10:56:46  [main] 	XAMPP Installation Directory: "e:\digirisk\xampp\"
+10:56:46  [main] 	Checking for prerequisites
+10:56:46  [main] 	All prerequisites found
+10:56:46  [main] 	Initializing Modules
+10:56:46  [main] 	The FileZilla module is disabled
+10:56:46  [main] 	The Mercury module is disabled
+10:56:46  [main] 	The Tomcat module is disabled
+10:56:46  [main] 	Enabling autostart for module "Apache"
+10:56:46  [main] 	Enabling autostart for module "MySQL"
+10:56:46  [main] 	Starting Check-Timer
+10:56:46  [main] 	Control Panel Ready
+10:56:47  [Apache] 	Autostart active: starting...
+10:56:47  [Apache] 	Attempting to start Apache app...
+10:56:47  [mysql] 	Autostart active: starting...
+10:56:47  [mysql] 	Attempting to start MySQL app...
+10:56:47  [Apache] 	Status change detected: running
+10:56:47  [mysql] 	Status change detected: running
+10:57:05  [mysql] 	Status change detected: stopped
+10:57:05  [mysql] 	Error: MySQL shutdown unexpectedly.
+10:57:05  [mysql] 	This may be due to a blocked port, missing dependencies, 
+10:57:05  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+10:57:05  [mysql] 	Press the Logs button to view error logs and check
+10:57:05  [mysql] 	the Windows Event Viewer for more clues
+10:57:05  [mysql] 	If you need more help, copy and post this
+10:57:05  [mysql] 	entire log window on the forums
+10:57:06  [Apache] 	Status change detected: stopped
+10:57:06  [Apache] 	Error: Apache shutdown unexpectedly.
+10:57:06  [Apache] 	This may be due to a blocked port, missing dependencies, 
+10:57:06  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+10:57:06  [Apache] 	Press the Logs button to view error logs and check
+10:57:06  [Apache] 	the Windows Event Viewer for more clues
+10:57:06  [Apache] 	If you need more help, copy and post this
+10:57:06  [Apache] 	entire log window on the forums
+10:59:17  [main] 	Deinitializing Modules
+10:59:17  [main] 	Deinitializing Control Panel
+
+11:24:17  [main] 	Initializing Control Panel
+11:24:17  [main] 	Windows Version:  Home  64-bit
+11:24:17  [main] 	XAMPP Version: 5.6.20
+11:24:17  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+11:24:17  [main] 	You are not running with administrator rights! This will work for
+11:24:17  [main] 	most application stuff but whenever you do something with services
+11:24:17  [main] 	there will be a security dialogue or things will break! So think 
+11:24:17  [main] 	about running this application with administrator rights!
+11:24:17  [main] 	XAMPP Installation Directory: "e:\digirisk\xampp\"
+11:24:17  [main] 	Checking for prerequisites
+11:24:17  [main] 	All prerequisites found
+11:24:17  [main] 	Initializing Modules
+11:24:17  [main] 	The FileZilla module is disabled
+11:24:17  [main] 	The Mercury module is disabled
+11:24:17  [main] 	The Tomcat module is disabled
+11:24:17  [main] 	Enabling autostart for module "Apache"
+11:24:17  [main] 	Enabling autostart for module "MySQL"
+11:24:17  [main] 	Starting Check-Timer
+11:24:17  [main] 	Control Panel Ready
+11:24:18  [Apache] 	Autostart active: starting...
+11:24:18  [Apache] 	Attempting to start Apache app...
+11:24:18  [mysql] 	Autostart active: starting...
+11:24:18  [mysql] 	Attempting to start MySQL app...
+11:24:18  [Apache] 	Status change detected: running
+11:24:18  [mysql] 	Status change detected: running
+11:25:04  [mysql] 	Status change detected: stopped
+11:25:04  [mysql] 	Error: MySQL shutdown unexpectedly.
+11:25:04  [mysql] 	This may be due to a blocked port, missing dependencies, 
+11:25:04  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+11:25:04  [mysql] 	Press the Logs button to view error logs and check
+11:25:04  [mysql] 	the Windows Event Viewer for more clues
+11:25:04  [mysql] 	If you need more help, copy and post this
+11:25:04  [mysql] 	entire log window on the forums
+11:25:04  [Apache] 	Status change detected: stopped
+11:25:04  [Apache] 	Error: Apache shutdown unexpectedly.
+11:25:04  [Apache] 	This may be due to a blocked port, missing dependencies, 
+11:25:04  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+11:25:04  [Apache] 	Press the Logs button to view error logs and check
+11:25:04  [Apache] 	the Windows Event Viewer for more clues
+11:25:04  [Apache] 	If you need more help, copy and post this
+11:25:04  [Apache] 	entire log window on the forums
+11:25:13  [main] 	Deinitializing Modules
+11:25:13  [main] 	Deinitializing Control Panel
+
+11:40:24  [main] 	Initializing Control Panel
+11:40:24  [main] 	Windows Version:  Home  64-bit
+11:40:24  [main] 	XAMPP Version: 5.6.20
+11:40:24  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+11:40:24  [main] 	You are not running with administrator rights! This will work for
+11:40:24  [main] 	most application stuff but whenever you do something with services
+11:40:24  [main] 	there will be a security dialogue or things will break! So think 
+11:40:24  [main] 	about running this application with administrator rights!
+11:40:24  [main] 	XAMPP Installation Directory: "e:\digirisk\xampp\"
+11:40:24  [main] 	Checking for prerequisites
+11:40:24  [main] 	All prerequisites found
+11:40:24  [main] 	Initializing Modules
+11:40:24  [main] 	The FileZilla module is disabled
+11:40:24  [main] 	The Mercury module is disabled
+11:40:24  [main] 	The Tomcat module is disabled
+11:40:24  [main] 	Enabling autostart for module "Apache"
+11:40:24  [main] 	Enabling autostart for module "MySQL"
+11:40:24  [main] 	Starting Check-Timer
+11:40:24  [main] 	Control Panel Ready
+11:40:25  [Apache] 	Autostart active: starting...
+11:40:25  [Apache] 	Attempting to start Apache app...
+11:40:25  [mysql] 	Autostart active: starting...
+11:40:25  [mysql] 	Attempting to start MySQL app...
+11:40:25  [Apache] 	Status change detected: running
+11:40:25  [mysql] 	Status change detected: running
+11:42:37  [mysql] 	Status change detected: stopped
+11:42:37  [mysql] 	Error: MySQL shutdown unexpectedly.
+11:42:37  [mysql] 	This may be due to a blocked port, missing dependencies, 
+11:42:37  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+11:42:37  [mysql] 	Press the Logs button to view error logs and check
+11:42:37  [mysql] 	the Windows Event Viewer for more clues
+11:42:37  [mysql] 	If you need more help, copy and post this
+11:42:37  [mysql] 	entire log window on the forums
+11:42:37  [Apache] 	Status change detected: stopped
+11:42:37  [Apache] 	Error: Apache shutdown unexpectedly.
+11:42:37  [Apache] 	This may be due to a blocked port, missing dependencies, 
+11:42:37  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+11:42:37  [Apache] 	Press the Logs button to view error logs and check
+11:42:37  [Apache] 	the Windows Event Viewer for more clues
+11:42:37  [Apache] 	If you need more help, copy and post this
+11:42:37  [Apache] 	entire log window on the forums
+11:42:39  [main] 	Deinitializing Modules
+11:42:39  [main] 	Deinitializing Control Panel
+
+11:42:47  [main] 	Initializing Control Panel
+11:42:47  [main] 	Windows Version:  Home  64-bit
+11:42:47  [main] 	XAMPP Version: 5.6.20
+11:42:47  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+11:42:47  [main] 	You are not running with administrator rights! This will work for
+11:42:47  [main] 	most application stuff but whenever you do something with services
+11:42:47  [main] 	there will be a security dialogue or things will break! So think 
+11:42:47  [main] 	about running this application with administrator rights!
+11:42:47  [main] 	XAMPP Installation Directory: "e:\digirisk\xampp\"
+11:42:47  [main] 	Checking for prerequisites
+11:42:47  [main] 	All prerequisites found
+11:42:47  [main] 	Initializing Modules
+11:42:47  [main] 	The FileZilla module is disabled
+11:42:47  [main] 	The Mercury module is disabled
+11:42:47  [main] 	The Tomcat module is disabled
+11:42:47  [main] 	Enabling autostart for module "Apache"
+11:42:47  [main] 	Enabling autostart for module "MySQL"
+11:42:47  [main] 	Starting Check-Timer
+11:42:47  [main] 	Control Panel Ready
+11:42:48  [Apache] 	Autostart active: starting...
+11:42:48  [Apache] 	Attempting to start Apache app...
+11:42:48  [mysql] 	Autostart active: starting...
+11:42:48  [mysql] 	Attempting to start MySQL app...
+11:42:48  [Apache] 	Status change detected: running
+11:42:48  [mysql] 	Status change detected: running
+11:44:00  [Apache] 	Status change detected: stopped
+11:44:00  [Apache] 	Error: Apache shutdown unexpectedly.
+11:44:00  [Apache] 	This may be due to a blocked port, missing dependencies, 
+11:44:00  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+11:44:00  [Apache] 	Press the Logs button to view error logs and check
+11:44:00  [Apache] 	the Windows Event Viewer for more clues
+11:44:00  [Apache] 	If you need more help, copy and post this
+11:44:00  [Apache] 	entire log window on the forums
+11:44:00  [mysql] 	Status change detected: stopped
+11:44:00  [mysql] 	Error: MySQL shutdown unexpectedly.
+11:44:00  [mysql] 	This may be due to a blocked port, missing dependencies, 
+11:44:00  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+11:44:00  [mysql] 	Press the Logs button to view error logs and check
+11:44:00  [mysql] 	the Windows Event Viewer for more clues
+11:44:00  [mysql] 	If you need more help, copy and post this
+11:44:00  [mysql] 	entire log window on the forums
+11:44:03  [main] 	Deinitializing Modules
+11:44:03  [main] 	Deinitializing Control Panel
+
+11:44:10  [main] 	Initializing Control Panel
+11:44:10  [main] 	Windows Version:  Home  64-bit
+11:44:10  [main] 	XAMPP Version: 5.6.20
+11:44:10  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+11:44:10  [main] 	You are not running with administrator rights! This will work for
+11:44:10  [main] 	most application stuff but whenever you do something with services
+11:44:10  [main] 	there will be a security dialogue or things will break! So think 
+11:44:10  [main] 	about running this application with administrator rights!
+11:44:10  [main] 	XAMPP Installation Directory: "e:\digirisk\xampp\"
+11:44:10  [main] 	Checking for prerequisites
+11:44:10  [main] 	All prerequisites found
+11:44:10  [main] 	Initializing Modules
+11:44:10  [main] 	The FileZilla module is disabled
+11:44:10  [main] 	The Mercury module is disabled
+11:44:10  [main] 	The Tomcat module is disabled
+11:44:10  [main] 	Enabling autostart for module "Apache"
+11:44:10  [main] 	Enabling autostart for module "MySQL"
+11:44:10  [main] 	Starting Check-Timer
+11:44:10  [main] 	Control Panel Ready
+11:44:11  [Apache] 	Autostart active: starting...
+11:44:11  [Apache] 	Attempting to start Apache app...
+11:44:11  [mysql] 	Autostart active: starting...
+11:44:11  [mysql] 	Attempting to start MySQL app...
+11:44:11  [Apache] 	Status change detected: running
+11:44:11  [mysql] 	Status change detected: running
+11:44:20  [mysql] 	Status change detected: stopped
+11:44:20  [mysql] 	Error: MySQL shutdown unexpectedly.
+11:44:20  [mysql] 	This may be due to a blocked port, missing dependencies, 
+11:44:20  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+11:44:20  [mysql] 	Press the Logs button to view error logs and check
+11:44:20  [mysql] 	the Windows Event Viewer for more clues
+11:44:20  [mysql] 	If you need more help, copy and post this
+11:44:20  [mysql] 	entire log window on the forums
+11:44:20  [Apache] 	Status change detected: stopped
+11:44:20  [Apache] 	Error: Apache shutdown unexpectedly.
+11:44:20  [Apache] 	This may be due to a blocked port, missing dependencies, 
+11:44:20  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+11:44:20  [Apache] 	Press the Logs button to view error logs and check
+11:44:20  [Apache] 	the Windows Event Viewer for more clues
+11:44:20  [Apache] 	If you need more help, copy and post this
+11:44:20  [Apache] 	entire log window on the forums
+11:44:34  [main] 	Deinitializing Modules
+11:44:34  [main] 	Deinitializing Control Panel
+
+11:46:25  [main] 	Initializing Control Panel
+11:46:25  [main] 	Windows Version:  Home  64-bit
+11:46:25  [main] 	XAMPP Version: 5.6.20
+11:46:25  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+11:46:25  [main] 	You are not running with administrator rights! This will work for
+11:46:25  [main] 	most application stuff but whenever you do something with services
+11:46:25  [main] 	there will be a security dialogue or things will break! So think 
+11:46:25  [main] 	about running this application with administrator rights!
+11:46:25  [main] 	XAMPP Installation Directory: "e:\digirisk\xampp\"
+11:46:25  [main] 	Checking for prerequisites
+11:46:25  [main] 	All prerequisites found
+11:46:25  [main] 	Initializing Modules
+11:46:25  [main] 	The FileZilla module is disabled
+11:46:25  [main] 	The Mercury module is disabled
+11:46:25  [main] 	The Tomcat module is disabled
+11:46:25  [main] 	Enabling autostart for module "Apache"
+11:46:25  [main] 	Enabling autostart for module "MySQL"
+11:46:25  [main] 	Starting Check-Timer
+11:46:25  [main] 	Control Panel Ready
+11:46:26  [Apache] 	Autostart active: starting...
+11:46:26  [Apache] 	Attempting to start Apache app...
+11:46:26  [mysql] 	Autostart active: starting...
+11:46:26  [mysql] 	Attempting to start MySQL app...
+11:46:26  [Apache] 	Status change detected: running
+11:46:26  [mysql] 	Status change detected: running
+11:46:32  [mysql] 	Status change detected: stopped
+11:46:32  [mysql] 	Error: MySQL shutdown unexpectedly.
+11:46:32  [mysql] 	This may be due to a blocked port, missing dependencies, 
+11:46:32  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+11:46:32  [mysql] 	Press the Logs button to view error logs and check
+11:46:32  [mysql] 	the Windows Event Viewer for more clues
+11:46:32  [mysql] 	If you need more help, copy and post this
+11:46:32  [mysql] 	entire log window on the forums
+11:46:33  [Apache] 	Attempting to stop Apache (PID: 7172)
+11:46:33  [Apache] 	Attempting to stop Apache (PID: 3816)
+11:46:34  [Apache] 	Status change detected: stopped
+11:46:38  [main] 	Deinitializing Modules
+11:46:38  [main] 	Deinitializing Control Panel
+
+11:47:52  [main] 	Initializing Control Panel
+11:47:52  [main] 	Windows Version:  Home  64-bit
+11:47:52  [main] 	XAMPP Version: 5.6.20
+11:47:52  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+11:47:52  [main] 	You are not running with administrator rights! This will work for
+11:47:52  [main] 	most application stuff but whenever you do something with services
+11:47:52  [main] 	there will be a security dialogue or things will break! So think 
+11:47:52  [main] 	about running this application with administrator rights!
+11:47:52  [main] 	XAMPP Installation Directory: "e:\digirisk\xampp\"
+11:47:52  [main] 	Checking for prerequisites
+11:47:52  [main] 	All prerequisites found
+11:47:52  [main] 	Initializing Modules
+11:47:52  [main] 	The FileZilla module is disabled
+11:47:52  [main] 	The Mercury module is disabled
+11:47:52  [main] 	The Tomcat module is disabled
+11:47:52  [main] 	Enabling autostart for module "Apache"
+11:47:52  [main] 	Enabling autostart for module "MySQL"
+11:47:52  [main] 	Starting Check-Timer
+11:47:52  [main] 	Control Panel Ready
+11:47:53  [Apache] 	Autostart active: starting...
+11:47:53  [Apache] 	Attempting to start Apache app...
+11:47:53  [mysql] 	Autostart active: starting...
+11:47:53  [mysql] 	Attempting to start MySQL app...
+11:47:53  [Apache] 	Status change detected: running
+11:47:53  [mysql] 	Status change detected: running
+11:48:07  [mysql] 	Status change detected: stopped
+11:48:07  [mysql] 	Error: MySQL shutdown unexpectedly.
+11:48:07  [mysql] 	This may be due to a blocked port, missing dependencies, 
+11:48:07  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+11:48:07  [mysql] 	Press the Logs button to view error logs and check
+11:48:07  [mysql] 	the Windows Event Viewer for more clues
+11:48:07  [mysql] 	If you need more help, copy and post this
+11:48:07  [mysql] 	entire log window on the forums
+11:48:07  [Apache] 	Status change detected: stopped
+11:48:07  [Apache] 	Error: Apache shutdown unexpectedly.
+11:48:07  [Apache] 	This may be due to a blocked port, missing dependencies, 
+11:48:07  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+11:48:07  [Apache] 	Press the Logs button to view error logs and check
+11:48:07  [Apache] 	the Windows Event Viewer for more clues
+11:48:07  [Apache] 	If you need more help, copy and post this
+11:48:07  [Apache] 	entire log window on the forums
+11:48:16  [main] 	Deinitializing Modules
+11:48:16  [main] 	Deinitializing Control Panel
+

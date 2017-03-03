@@ -1,0 +1,15 @@
+Performing a replace request
+PATCH DIRECTORY C:\Users\Alexandre\AppData\Local\Mozilla\Firefox\firefox\updates\0
+INSTALLATION DIRECTORY E:\digirisk\firefox\App\firefox
+WORKING DIRECTORY E:\digirisk\firefox\App\firefox\updated
+Begin moving destDir (E:\digirisk\firefox\App\Firefox) to tmpDir (E:\digirisk\firefox\App\Firefox.bak)
+rename_file: proceeding to rename the directory
+Begin moving newDir (E:\digirisk\firefox\App\firefox.bak/updated) to destDir (E:\digirisk\firefox\App\Firefox)
+rename_file: proceeding to rename the directory
+Now, remove the tmpDir
+ensure_remove: failed to remove file: E:\digirisk\firefox\App\Firefox.bak/updater.exe, rv: -1, err: 13
+ensure_remove_recursive: unable to remove directory: E:\digirisk\firefox\App\Firefox.bak, rv: -1, err: 41
+Removing tmpDir failed, err: -1
+remove_recursive_on_reboot: failed to schedule OS reboot removal of file: E:\digirisk\firefox\App\Firefox\tobedeleted\rep7F6.tmp
+succeeded
+calling QuitProgressUI
